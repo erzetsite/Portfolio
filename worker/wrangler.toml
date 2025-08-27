@@ -1,0 +1,7 @@
+name = "portfolio-api"
+main = "src/index.js"
+compatibility_date = "2023-12-01"
+
+# Add your custom domain here after deploying
+# [triggers]
+# routes = ["api.rzsite.my.id/*"]
